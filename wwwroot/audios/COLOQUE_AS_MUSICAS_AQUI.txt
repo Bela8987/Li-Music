@@ -1,0 +1,12 @@
+COMO ADICIONAR MÚSICAS
+
+1. Coloque o MP3 em uma das pastas:
+   wwwroot/audios/isabela
+   wwwroot/audios/lauany
+
+2. Use o padrão: Titulo_Artista.mp3
+   Exemplo: Dreams_FleetwoodMac.mp3
+
+3. Coloque a capa com o mesmo nome na pasta correspondente em wwwroot/capas.
+
+4. Abra o site e clique em “Sincronizar arquivos”.

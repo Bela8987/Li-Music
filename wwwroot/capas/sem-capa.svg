@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Sem capa">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7a3c2"/><stop offset="1" stop-color="#74203e"/></linearGradient></defs>
+  <rect width="500" height="500" rx="70" fill="#260816"/>
+  <circle cx="250" cy="250" r="165" fill="url(#g)" opacity=".94"/>
+  <circle cx="250" cy="250" r="48" fill="#260816"/>
+  <path d="M318 112v210c0 47-38 85-85 85-38 0-69-25-69-57s31-57 69-57c16 0 31 4 43 11V140z" fill="#260816"/>
+</svg>

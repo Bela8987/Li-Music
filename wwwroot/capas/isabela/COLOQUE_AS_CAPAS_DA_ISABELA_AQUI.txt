@@ -1,0 +1,3 @@
+Coloque aqui as capas das músicas de Isabela.
+Use o mesmo nome-base do MP3.
+Exemplo: Dreams_FleetwoodMac.jpg

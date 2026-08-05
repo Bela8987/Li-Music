@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\COLOQUE_AS_FOTOS_DOS_ARTISTAS_AQUI.txt",
+      "PackagePath": "staticwebassets\\artistas\\COLOQUE_AS_FOTOS_DOS_ARTISTAS_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\bleachers.png",
+      "PackagePath": "staticwebassets\\artistas\\bleachers.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\depeche-mode.png",
+      "PackagePath": "staticwebassets\\artistas\\depeche-mode.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\empire-of-the-sun.png",
+      "PackagePath": "staticwebassets\\artistas\\empire-of-the-sun.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\fleetwood-mac.png",
+      "PackagePath": "staticwebassets\\artistas\\fleetwood-mac.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\gal-costa.png",
+      "PackagePath": "staticwebassets\\artistas\\gal-costa.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\journey.png",
+      "PackagePath": "staticwebassets\\artistas\\journey.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\olivia-rodrigo.png",
+      "PackagePath": "staticwebassets\\artistas\\olivia-rodrigo.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\player.png",
+      "PackagePath": "staticwebassets\\artistas\\player.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\preta-gil.png",
+      "PackagePath": "staticwebassets\\artistas\\preta-gil.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\taylor-swift.png",
+      "PackagePath": "staticwebassets\\artistas\\taylor-swift.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\the-cranberries.png",
+      "PackagePath": "staticwebassets\\artistas\\the-cranberries.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\artistas\\the-goo-goo-dolls.png",
+      "PackagePath": "staticwebassets\\artistas\\the-goo-goo-dolls.png"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\COLOQUE_AS_MUSICAS_AQUI.txt",
+      "PackagePath": "staticwebassets\\audios\\COLOQUE_AS_MUSICAS_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\COLOQUE_AS_MUSICAS_DA_ISABELA_AQUI.txt",
+      "PackagePath": "staticwebassets\\audios\\isabela\\COLOQUE_AS_MUSICAS_DA_ISABELA_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\Landslide_FleetwoodMac.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\Landslide_FleetwoodMac.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\Linger_TheCranberries.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\Linger_TheCranberries.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\MerryChristmasPleaseDontCall_Bleachers.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\MerryChristmasPleaseDontCall_Bleachers.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\SinaisDeFogo_PretaGil.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\SinaisDeFogo_PretaGil.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\TheLastTime_TaylorSwift.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\TheLastTime_TaylorSwift.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\WeAreThePeople_EmpireOfTheSun.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\WeAreThePeople_EmpireOfTheSun.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\isabela\\less_OliviaRodrigo.mp3",
+      "PackagePath": "staticwebassets\\audios\\isabela\\less_OliviaRodrigo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\Azul_GalCosta.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\Azul_GalCosta.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\BabyComeBack_Player.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\BabyComeBack_Player.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\COLOQUE_AS_MUSICAS_DA_LAUANY_AQUI.txt",
+      "PackagePath": "staticwebassets\\audios\\lauany\\COLOQUE_AS_MUSICAS_DA_LAUANY_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\DontStopBelievin_Journey.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\DontStopBelievin_Journey.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\EnjoyTheSilence_DepecheMode.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\EnjoyTheSilence_DepecheMode.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\FatherFigure_TaylorSwift.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\FatherFigure_TaylorSwift.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\GoldDustWoman_FleetwoodMac.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\GoldDustWoman_FleetwoodMac.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\audios\\lauany\\Iris_TheGooGooDolls.mp3",
+      "PackagePath": "staticwebassets\\audios\\lauany\\Iris_TheGooGooDolls.mp3"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\COLOQUE_AS_CAPAS_AQUI.txt",
+      "PackagePath": "staticwebassets\\capas\\COLOQUE_AS_CAPAS_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\COLOQUE_AS_CAPAS_DA_ISABELA_AQUI.txt",
+      "PackagePath": "staticwebassets\\capas\\isabela\\COLOQUE_AS_CAPAS_DA_ISABELA_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\Landslide_FleetwoodMac.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\Landslide_FleetwoodMac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\Linger_TheCranberries.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\Linger_TheCranberries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\MerryChristmasPleaseDontCall_Bleachers.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\MerryChristmasPleaseDontCall_Bleachers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\SinaisDeFogo_PretaGil.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\SinaisDeFogo_PretaGil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\TheLastTime_TaylorSwift.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\TheLastTime_TaylorSwift.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\WeAreThePeople_EmpireOfTheSun.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\WeAreThePeople_EmpireOfTheSun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\isabela\\less_OliviaRodrigo.jpg",
+      "PackagePath": "staticwebassets\\capas\\isabela\\less_OliviaRodrigo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\Azul_GalCosta.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\Azul_GalCosta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\BabyComeBack_Player.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\BabyComeBack_Player.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\COLOQUE_AS_CAPAS_DA_LAUANY_AQUI.txt",
+      "PackagePath": "staticwebassets\\capas\\lauany\\COLOQUE_AS_CAPAS_DA_LAUANY_AQUI.txt"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\DontStopBelievin_Journey.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\DontStopBelievin_Journey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\EnjoyTheSilence_DepecheMode.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\EnjoyTheSilence_DepecheMode.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\FatherFigure_TaylorSwift.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\FatherFigure_TaylorSwift.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\GoldDustWoman_FleetwoodMac.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\GoldDustWoman_FleetwoodMac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\lauany\\Iris_TheGooGooDolls.jpg",
+      "PackagePath": "staticwebassets\\capas\\lauany\\Iris_TheGooGooDolls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\capas\\sem-capa.svg",
+      "PackagePath": "staticwebassets\\capas\\sem-capa.svg"
+    },
+    {
+      "Id": "C:\\Users\\486068624\\Downloads\\LI-Music-Atualizado-Funcional\\LI Music\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LI Music.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LI Music.props",
+      "PackagePath": "build\\LI Music.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LI Music.props",
+      "PackagePath": "buildMultiTargeting\\LI Music.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LI Music.props",
+      "PackagePath": "buildTransitive\\LI Music.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

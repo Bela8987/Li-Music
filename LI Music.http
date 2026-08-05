@@ -1,0 +1,39 @@
+@LI_Music_HostAddress = https://localhost:7163
+
+### Login Isabela
+POST {{LI_Music_HostAddress}}/api/usuarios/login
+Content-Type: application/json
+
+{
+  "login": "isabela",
+  "senha": "isabela123"
+}
+
+### Login Lauany
+POST {{LI_Music_HostAddress}}/api/usuarios/login
+Content-Type: application/json
+
+{
+  "login": "lauany",
+  "senha": "lauany123"
+}
+
+### Músicas da Isabela
+GET {{LI_Music_HostAddress}}/api/musicas?usuarioId=1
+Accept: application/json
+
+### Músicas da Lauany
+GET {{LI_Music_HostAddress}}/api/musicas?usuarioId=2
+Accept: application/json
+
+### Sincronizar pastas de áudio e capas
+POST {{LI_Music_HostAddress}}/api/musicas/sincronizar
+Content-Type: application/json
+
+### Artistas da Isabela
+GET {{LI_Music_HostAddress}}/api/artistas?usuarioId=1
+Accept: application/json
+
+### Playlists da Isabela
+GET {{LI_Music_HostAddress}}/api/playlists?usuarioId=1
+Accept: application/json

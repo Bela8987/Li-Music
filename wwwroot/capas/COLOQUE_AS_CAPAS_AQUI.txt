@@ -1,0 +1,10 @@
+COMO ADICIONAR CAPAS
+
+Coloque a imagem em wwwroot/capas/isabela ou wwwroot/capas/lauany.
+A imagem precisa ter o mesmo nome-base do áudio.
+
+Exemplo:
+Dreams_FleetwoodMac.mp3
+Dreams_FleetwoodMac.jpg
+
+Formatos aceitos: JPG, JPEG, PNG, WEBP e SVG.

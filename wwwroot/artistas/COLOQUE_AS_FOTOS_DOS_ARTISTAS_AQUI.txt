@@ -1,0 +1,4 @@
+Coloque aqui fotos reais dos artistas, se desejar.
+Use nomes simples, por exemplo: fleetwood-mac.jpg.
+Depois abra o artista no site e informe o caminho /artistas/fleetwood-mac.jpg.
+O projeto já inclui avatares SVG provisórios.
