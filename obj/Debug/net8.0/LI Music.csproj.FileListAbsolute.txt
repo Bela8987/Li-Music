@@ -145,3 +145,4 @@ C:\Users\486068624\Downloads\LI-Music-Atualizado-Funcional\LI Music\obj\Debug\ne
 C:\Users\486068624\Downloads\LI-Music-Atualizado-Funcional\LI Music\obj\Debug\net8.0\LI Music.pdb
 C:\Users\486068624\Downloads\LI-Music-Atualizado-Funcional\LI Music\obj\Debug\net8.0\LI Music.genruntimeconfig.cache
 C:\Users\486068624\Downloads\LI-Music-Atualizado-Funcional\LI Music\obj\Debug\net8.0\ref\LI Music.dll
+C:\Users\486068624\Downloads\LI-Music-Atualizado-Funcional\LI Music\obj\Debug\net8.0\LI Music.sourcelink.json
